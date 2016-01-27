@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.rockerhieu.emojicon.EmojiconTextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:textColor="#000000"
+    android:textSize="18sp"
+    android:text="I \ue32d emojicon"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
